@@ -1,6 +1,6 @@
 import { expect, test } from 'vitest';
 import { hello } from '../src/index';
 
-test('adds 1 + 2 to equal 3', () => {
+test('Sample test', () => {
   expect(hello()).toBe('Hello world!');
 });
