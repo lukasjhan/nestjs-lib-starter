@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+</p>
+
+<p align="center"><b>nest-configify</b></p>
+<p align="center">NestJS type-safe configuration library</p>
+
 # NestJS Library Starter
 
 Welcome to the NestJS Library Starter! This template repository is designed to help you quickly set up and develop libraries for NestJS applications. It comes pre-configured with essential build and test tools, allowing you to focus on writing your library code without worrying about the setup.
